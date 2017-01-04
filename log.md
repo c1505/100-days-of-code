@@ -8,5 +8,5 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 
 **Thoughts:** Happy to recieve feedback on the pull request and am interested in the conversation and best way to move forward with the desired feature.  Curious what is going on with the intermittently failing test.  Wondering why using activerecord callbacks is a bad idea.
 
-**Link to work:** (https://github.com/AgileVentures/WebsiteOne/pull/1474)
+**Link to work:** (https://github.com/AgileVentures/WebsiteOne/pull/1474) https://github.com/c1505/WebsiteOne/commit/8f30616f04d1016771771db0a96700bacf79ed09
 
