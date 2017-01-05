@@ -10,3 +10,9 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 
 **Link to work:** (https://github.com/AgileVentures/WebsiteOne/pull/1474) https://github.com/c1505/WebsiteOne/commit/8f30616f04d1016771771db0a96700bacf79ed09
 
+### Day 2: 04JAN16
+**Today's Progress**: Work on previous pull request to understand what is desired testing-wise.  Submitted a new pull request for agileventures.org to make live events visible when they aren't started from an event.  Reviewed a bit of SOLID principles from an edx agile development course.  
+
+**Thoughts:** I think actually opening a pull request and getting feedback will speed up my learning and it will be better working on projects with other people that are used.  There are real users affected.  
+
+**Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1478 
