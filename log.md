@@ -16,3 +16,10 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 **Thoughts:** I think actually opening a pull request and getting feedback will speed up my learning and it will be better working on projects with other people that are used.  There are real users affected.  
 
 **Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1478 
+
+### Day 3: 05JAN16
+**Today's Progress**: Got further direction on automatic event creation and live events pull requests.  Spent some time trying to figure out the cause behind bug where the 'start a hangout' button won't show up.  Was able to replicate it.
+
+**Thoughts:** Most of programming is not the typing of the characters on a keyboard.  
+
+**Link to work:** https://github.com/AgileVentures/WebsiteOne/issues/1477
