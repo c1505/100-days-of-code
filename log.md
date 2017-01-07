@@ -23,3 +23,10 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 **Thoughts:** Most of programming is not the typing of the characters on a keyboard.  
 
 **Link to work:** https://github.com/AgileVentures/WebsiteOne/issues/1477
+
+### Day 4: 06JAN16
+**Today's Progress**: Added some tests for upcoming and live events pull request for agileventures.org.  Investigated a bit more into the 'start hangout' button bug.  
+
+**Thoughts:** It can be dangerous to rely on an external API for business critical things.
+
+**Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1474
