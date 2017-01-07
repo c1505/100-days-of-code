@@ -30,3 +30,10 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 **Thoughts:** It can be dangerous to rely on an external API for business critical things.
 
 **Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1474
+
+### Day 5: 07JAN16
+**Today's Progress**: Added more tests for upcoming and live events pull request.  Squashed commits and rebased with develop and updated the pull request for later review.  
+
+**Thoughts:** Git in how it allows collaberation, but could use better naming and error messages.
+
+**Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1474
