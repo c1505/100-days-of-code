@@ -37,3 +37,10 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 **Thoughts:** Git in how it allows collaberation, but could use better naming and error messages.
 
 **Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1474
+
+### Day 6: 08JAN16
+**Today's Progress**: Realized hangouts on air is not working for me.  Added that too the issue about the button.  Learned more about the hangouts on air vs. youtube live.  Started writing more tests for the automatic event creation issue.
+
+**Thoughts:** Spent too much time trying to digg in to something I don't have much control over.
+
+**Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1478
