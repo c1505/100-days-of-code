@@ -44,3 +44,9 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 **Thoughts:** Spent too much time trying to digg in to something I don't have much control over.
 
 **Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1478
+### Day 7: 09JAN16
+**Today's Progress**: Matt responded to my issue about hangouts on air and it led me to a fix on the youtube live channel.  The hangouts error message doesn't give you any clue what to do, says "try again later".  That instruction of what to do should probably be on AgileVentures.org since google is not supplying a good error message.  Made some progress in highlighting live events.  I am not well versed in CSS so this will be good practice to refresh on some basic things.    
+
+**Thoughts:** This 100 day committment does motivate me to be more focused and make some progress, but I also wonder if some days I would have gone longer than an hour if that wasn't my goal to hit.  
+
+**Link to work:** https://github.com/c1505/WebsiteOne/tree/1468_highlight_live_events
