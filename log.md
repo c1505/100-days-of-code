@@ -50,3 +50,10 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 **Thoughts:** This 100 day committment does motivate me to be more focused and make some progress, but I also wonder if some days I would have gone longer than an hour if that wasn't my goal to hit.  
 
 **Link to work:** https://github.com/c1505/WebsiteOne/tree/1468_highlight_live_events
+
+### Day 8: 11JAN16
+**Today's Progress**: Made a simple amazon alexa skill for fun.  Made some small tweaks to a sample app.  I guess officially the time learning doesn't count for this since it was mostly a tutorial.  I also spent some time working on agileventures.org .  Creating an event with the creation of google hangout.  Not a lot of code got done, but learned a bit about why and how to avoid activerecord callbacks.  
+
+**Thoughts:** It is hard to strictly focus on projects especially if you are approaching something new.  In the desire to create a project, sometimes it is useful to start with a tutorial.  Then when you are working on a project, sometimes it is best to take an hour to learn about a best practice before writing code. 
+
+**Link to work:** https://github.com/c1505/WebsiteOne/tree/SPIKE_1475_auto_create_event
