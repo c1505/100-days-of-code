@@ -31,29 +31,46 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 
 **Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1474
 
-### Day 5: 07JAN16
+### Day 5: 07JAN17
 **Today's Progress**: Added more tests for upcoming and live events pull request.  Squashed commits and rebased with develop and updated the pull request for later review.  
 
 **Thoughts:** Git in how it allows collaberation, but could use better naming and error messages.
 
 **Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1474
 
-### Day 6: 08JAN16
+### Day 6: 08JAN17
 **Today's Progress**: Realized hangouts on air is not working for me.  Added that too the issue about the button.  Learned more about the hangouts on air vs. youtube live.  Started writing more tests for the automatic event creation issue.
 
 **Thoughts:** Spent too much time trying to digg in to something I don't have much control over.
 
 **Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1478
-### Day 7: 09JAN16
+### Day 7: 09JAN17
 **Today's Progress**: Matt responded to my issue about hangouts on air and it led me to a fix on the youtube live channel.  The hangouts error message doesn't give you any clue what to do, says "try again later".  That instruction of what to do should probably be on AgileVentures.org since google is not supplying a good error message.  Made some progress in highlighting live events.  I am not well versed in CSS so this will be good practice to refresh on some basic things.    
 
 **Thoughts:** This 100 day committment does motivate me to be more focused and make some progress, but I also wonder if some days I would have gone longer than an hour if that wasn't my goal to hit.  
 
 **Link to work:** https://github.com/c1505/WebsiteOne/tree/1468_highlight_live_events
 
-### Day 8: 11JAN16
+### Day 8: 11JAN17
 **Today's Progress**: Made a simple amazon alexa skill for fun.  Made some small tweaks to a sample app.  I guess officially the time learning doesn't count for this since it was mostly a tutorial.  I also spent some time working on agileventures.org .  Creating an event with the creation of google hangout.  Not a lot of code got done, but learned a bit about why and how to avoid activerecord callbacks.  
 
 **Thoughts:** It is hard to strictly focus on projects especially if you are approaching something new.  In the desire to create a project, sometimes it is useful to start with a tutorial.  Then when you are working on a project, sometimes it is best to take an hour to learn about a best practice before writing code. 
 
 **Link to work:** https://github.com/c1505/WebsiteOne/tree/SPIKE_1475_auto_create_event
+
+### Day 9: 12JAN17
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 9: 12JAN17
+
+**Today's Progress**: Another error in CI for websiteone.  Pushed an empty commit and it resolved.  It would be good to look into these problems.  Fixed the tests for event display duration.  Turns out they were not actually testing what I thought they were because they passed before the changes.  They were fine when I didn't consider the previous state of the code.  
+
+**Thoughts:** Reminder to make sure tests are red without the code that they supposidly rely on. 
+
+**Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1474
+
