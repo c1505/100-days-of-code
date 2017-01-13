@@ -68,7 +68,7 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 
 ### Day 9: 12JAN17
 
-**Today's Progress**: Another error in CI for websiteone.  Pushed an empty commit and it resolved.  It would be good to look into these problems.  Fixed the tests for event display duration.  Turns out they were not actually testing what I thought they were because they passed before the changes.  They were fine when I didn't consider the previous state of the code.  
+**Today's Progress**: Another error in CI for websiteone.  Pushed an empty commit and it resolved.  It would be good to look into these problems.  Fixed the tests for event display duration.  Turns out they were not actually testing what I thought they were because they passed before the changes.  They were fine when I didn't consider the previous state of the code.  Spent some time working on extracting a class from a large complicated rails model.    
 
 **Thoughts:** Reminder to make sure tests are red without the code that they supposidly rely on. 
 
