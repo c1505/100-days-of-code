@@ -74,3 +74,11 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 
 **Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1474
 
+### Day 10: 13JAN17
+
+**Today's Progress**: Wrote some tests to help with extract class refactoring.  Worked from red to green.  More tests may be needed to be confident that extracted behavior matches the old behavior.   
+
+**Thoughts:** I feel like coding daily is starting to benefit me more.  I find myself not resistent to starting to code and thinking about the problems I am working on when not programming.  
+
+**Link to work:** https://github.com/c1505/WebsiteOne/tree/SPIKE_extract_reccurrence
+
