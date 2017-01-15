@@ -58,13 +58,6 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 
 **Link to work:** https://github.com/c1505/WebsiteOne/tree/SPIKE_1475_auto_create_event
 
-### Day 9: 12JAN17
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link to work:** 
 
 ### Day 9: 12JAN17
 
@@ -81,4 +74,13 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 **Thoughts:** I feel like coding daily is starting to benefit me more.  I find myself not resistent to starting to code and thinking about the problems I am working on when not programming.  
 
 **Link to work:** https://github.com/c1505/WebsiteOne/tree/SPIKE_extract_reccurrence
+
+### Day 11: 14JAN17
+
+**Today's Progress**: Learned more about refactoring.  Watched Katrina Owen's thereputic refactoring talk and another refactoring talk by Ben Orenstein https://www.youtube.com/watch?v=DC-pQPq0acs .  Worked a bit more on extracting a class and made a small pull request to update a gem to get rid of deprication warnings.
+
+**Thoughts:** Sometimes things take a couple times of hearing and trying examples to sink in.  
+
+**Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1497   
+
 
