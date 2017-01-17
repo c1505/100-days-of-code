@@ -83,4 +83,10 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 
 **Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1497   
 
+### Day 12: 16JAN17
 
+**Today's Progress**: Worked on refactoring a bit more and a few exercism.io exercises.  Bowling and Minesweeper.  
+
+**Thoughts:** It is best and likely most correct to assume people did the best they could at the time they wrote code.
+
+**Link to work:** https://github.com/c1505/minesweeper
