@@ -90,3 +90,11 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 **Thoughts:** It is best and likely most correct to assume people did the best they could at the time they wrote code.
 
 **Link to work:** https://github.com/c1505/minesweeper
+
+### Day 13: 17JAN17
+
+**Today's Progress**: Custom set exercism exercise at the local West End Ruby meetup.  Looked over some code for AgileVentures, but didn't do much actual programming for that today.     
+
+**Thoughts:** It is better to do something in public than continually think about possible solutions.  
+
+**Link to work:** http://exercism.io/submissions/5e11083f2b064192aff2ee54e6d30179
