@@ -98,3 +98,12 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 **Thoughts:** It is better to do something in public than continually think about possible solutions.  
 
 **Link to work:** http://exercism.io/submissions/5e11083f2b064192aff2ee54e6d30179
+
+### Day 14: 18JAN17
+
+**Today's Progress**: Forgot to actually make this update and tweet yesterday.  Looked into how to measure performance on a rails application and continued work on refactoring AgileVentures.  
+
+**Thoughts:** It might help to make my work more visible more often by submitting a pull request and/or pairing.  I did that for a spike once so far to get some feedback.  Really excited that I had two pull requests merged yesterday! 
+
+**Link to work:** https://github.com/c1505/WebsiteOne/tree/SPIKE_extract_reccurrence
+
