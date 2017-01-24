@@ -107,3 +107,11 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 
 **Link to work:** https://github.com/c1505/WebsiteOne/tree/SPIKE_extract_reccurrence
 
+### Day 15: 23JAN17
+
+**Today's Progress**: Working on fixing an issue caused by a previous pull request I made to AgileVentures.  A feature broke that I didn't think would be affected by the changes I made.  I wrote tests and code for the homepage.  It seems like the problem is mostly with the Event.next_occurrence method though.  
+
+**Thoughts:** This is a reminder to test well and that bugs will still happen. Also to decouple code as much as possible and be more careful in changing code.  Make sure to check what relies on it event when it doesn't seem like something should.  
+
+**Link to work:** https://github.com/AgileVentures/WebsiteOne/issues/1517 https://github.com/c1505/WebsiteOne/tree/1517_next_scrum
+
