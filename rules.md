@@ -8,7 +8,9 @@ January 3rd, 2016.
 
 ## Additional Rules
 1. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-2. I will prioritize real projects with other contributors.  Other types of learning including tutorials, code challenges, courses, personal projects, and books are crucial to my development and I will work on them when appropriate. 
+2. I will prioritize real projects with other contributors.  Other types of learning including tutorials, code challenges, courses, personal projects, and books are crucial to my development and I will work on them when appropriate.
+3. I will submit at least one pull request per week.
+
 
 
 ## Ideas to make this challenge more effective
