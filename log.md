@@ -115,3 +115,11 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 
 **Link to work:** https://github.com/AgileVentures/WebsiteOne/issues/1517 https://github.com/c1505/WebsiteOne/tree/1517_next_scrum
 
+### Day 16: 29JAN17
+
+**Today's Progress**: Corrected a test so it is now appropriately passing.  Enabled autocomplete when working with git.  
+
+**Thoughts:** It is slight hurdle to come back to programming even when it hasn't been that long.  
+
+**Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1519
+
