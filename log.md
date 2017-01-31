@@ -123,3 +123,11 @@ Worked on some of issue https://github.com/AgileVentures/WebsiteOne/issues/1475 
 
 **Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1519
 
+### Day 17: 30JAN17
+
+**Today's Progress**: Separated out next scrum scenarios into separate feature file.  Still can't figure out why a test if failing that uses javascript when using save_and_open_page gives me the information I expect.
+
+**Thoughts:** Slow going.
+
+**Link to work:** https://github.com/AgileVentures/WebsiteOne/pull/1519
+
